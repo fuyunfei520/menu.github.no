@@ -1,0 +1,2 @@
+# menu.github.no
+blog
